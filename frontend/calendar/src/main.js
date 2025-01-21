@@ -3,7 +3,7 @@ import dayGridPlugin from '@fullcalendar/daygrid';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import listPlugin from '@fullcalendar/list';
 import ruLocale from '@fullcalendar/core/locales/ru'
-import './css/style.css'
+import './styles/style.css'
 import axios from "axios";
 
 let calendarEl = document.getElementById('calendar');
